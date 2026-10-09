@@ -34,7 +34,7 @@ export default function Footer() {
               VS
             </div>
             <span style={{ fontSize: '14px', fontWeight: 600, color: '#fff' }}>
-              Vishwaraj Shekhawat
+              Vishwaraj Singh Shekhawat
             </span>
           </div>
           <p style={{

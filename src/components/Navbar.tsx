@@ -121,7 +121,7 @@ export default function Navbar() {
                 whiteSpace: 'nowrap',
               }}
             >
-              Vishwaraj Shekhawat
+              Vishwaraj Singh Shekhawat
             </span>
           </a>
 
